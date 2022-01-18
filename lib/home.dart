@@ -126,7 +126,7 @@ class _HomeState extends State<Home> {
           ),
           BottomNavigationBarItem(
             icon: Icon(
-              Icons.home,
+              Icons.history,
               color: Color.fromRGBO(229, 229, 229, 100),
             ),
             label: "History",
