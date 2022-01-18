@@ -9,6 +9,6 @@ void main() async {
   await Firebase.initializeApp();
   runApp(MaterialApp(
     debugShowCheckedModeBanner: false,
-    home: orders_history(),
+    home: SplashScreen(),
   ));
 }
